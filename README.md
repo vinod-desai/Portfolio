@@ -1,4 +1,4 @@
-![Header](https://github.com/vinod-desai/about/blob/main/images/banner.png)
+![Header](https://github.com/vinod-desai/about/blob/main/banner.png)
 
 # Hello folks!👋
 
