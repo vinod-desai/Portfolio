@@ -2,7 +2,7 @@
 
 # Hello folks!👋
 
-My name is Vinod Desai. I am a Full Stack Web Developer. I am currently working at Crestron Electronics Banglore.
+My name is Vinod Desai. I am a Full Stack Web Developer. I am currently working at Crestron Electronics Bangalore.
 
 You can reach me on [Linkedin](https://in.linkedin.com/in/vinoddesai147).
 
