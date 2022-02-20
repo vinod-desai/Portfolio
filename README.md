@@ -1,5 +1,3 @@
-![Header](https://github.com/vinod-desai/about/blob/main/banner.png)
-
 # Hello folks!👋
 
 My name is Vinod Desai. I am a Full Stack Web Developer. I am currently working at Crestron Electronics Bangalore.
