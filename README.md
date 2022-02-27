@@ -68,7 +68,7 @@ CGPA 8.88
 ### Pre University Course
 Percentage - 90.33
 
-## INTERESTS
+## Interests
 
 Apart from being a web developer, I do solve problems on leetcode, attend tech conferences organized by Devkode, JS India, etc.
 
