@@ -70,7 +70,7 @@ Percentage - 90.33
 
 ## Interests
 
-Apart from being a web developer, I do solve problems on leetcode, attend tech conferences organized by Devkode, JS India, etc.
+Apart from being a web developer, I do solve problems on [LeetCode](https://leetcode.com/vinoddesai07app/), attend tech conferences organized by Devkode, JS India, etc.
 
 My hobbies include Cooking, Workout/Gym, Running, Watching Stand Up Comdey shows, Cricket and Movies.
 
