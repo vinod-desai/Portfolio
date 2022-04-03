@@ -2,10 +2,11 @@ title: Vinod Desai # your name (or website title) here
 logo: "/profile.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  Software Development Engineer
-  <br><br>
+  <br>
   <a href="https://leetcode.com/vinoddesai07app/">LeetCode</a>
   <br>
   <a href="https://linkedin.com/in/vinoddesai147/">LinkedIn</a>
   <br>
-  <a href="https://github.com/vinod-desai/">Github</a> 
+  <a href="https://github.com/vinod-desai/">Github</a>
+  <br><br>
 theme: jekyll-theme-minimal
