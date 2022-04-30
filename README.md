@@ -1,6 +1,6 @@
 # Hello folks!👋
 
-My name is Vinod Desai. I am a Full Stack Web Developer. I am currently working at Crestron Electronics Bangalore.
+My name is Vinod Desai. I am a Full Stack Web Developer currently working at Amadeus Labs Bangalore.
 
 You can reach me on [Linkedin](https://in.linkedin.com/in/vinoddesai147).
 
@@ -21,38 +21,38 @@ You can reach me on [Linkedin](https://in.linkedin.com/in/vinoddesai147).
 
 ### **Software Developer**
 ### Crestron Software Development India Private Limited
-Responsible for Design, Development of web applications.
-Responsible for Integrating applications with Salesforce B2B Commerce cloud.
+Responsible for Design, Development of web applications.<br />
+Responsible for Integrating applications with Salesforce B2B Commerce cloud.<br />
 Responsible for Releasing Applications using Azure Pipeline and Release tools.
 
 ### **Senior Applications Engineer**
 ### Oracle India Private Limited
-Responsible for developing web applications for Time and Attendance module of Human Capital Management (HCM) product.
-Responsible for debugging bugs and providing quick bug fixes for customer real time issues.
-Responsible for improving web pages performance and delivering optimized, high quality features.
+Responsible for developing web applications for Time and Attendance module of Human Capital Management (HCM) product.<br />
+Responsible for debugging bugs and providing quick bug fixes for customer real time issues.<br />
+Responsible for improving web pages performance and delivering optimized, high quality features.<br />
 
 ## Projects
 
 ### Light Fixture Configurator Tool (LFCT)
 Created Configure Price Quote (CPQ) web application for light fixture product from scratch including design/prototype, requirement gathering from buisness.
-Ability to generate multiple version of the project design, generate quote and export data to excel.
-Integrated with Salesforce B2B Commerce cloud application for order processing and to provide consistant user experience for ordering configurable and non-configurable products from Crestron.
+Ability to generate multiple version of the project design, generate quote and export data to excel.<br />
+Integrated with Salesforce B2B Commerce cloud application for order processing and to provide consistant user experience for ordering configurable and non-configurable products from Crestron.<br />
 Automated Validation of Product Lexicons and Pricing using C# Selenium test framework.
 
 ### Consultant Calculator
-This application is designed to assist crestron consultants in calculating the cost of the crestron hardware and software products for commercial and residential projects along with products rack units, power, and cooling informations at one place.
-Ability to generate multiple version of the project design, generate quote and export data to excel.
+This application is designed to assist crestron consultants in calculating the cost of the crestron hardware and software products for commercial and residential projects along with products rack units, power, and cooling informations at one place.<br />
+Ability to generate multiple version of the project design, generate quote and export data to excel.<br />
 Integrated prequote project with QuotesWeb application for converting prequote project into and an opportunity.
 
 ### Crestron Design Tool for Shading Solutions (CDTS)
-Crestron Design Tool for Shades for configuring all types of shades product, add accessories to design, create revisions, generate quote and order the shading solutions for commercial and residential projects.
+Crestron Design Tool for Shades for configuring all types of shades product, add accessories to design, create revisions, generate quote and order the shading solutions for commercial and residential projects.<br />
 Implemented Order Processing by generating an XML file, this order XML file is consumed by SAP PI/PO module for further managing and processing the order by manufacturing unit.
 
 ### QuotesWeb
 Configure, Price, Quote (CPQ) application for sales order team to create projects for customers with products details and generate quote.
 
 ### Attachments Framework
-This configurable framework provides the ability to attach files in any transaction page of HCM application.
+This configurable framework provides the ability to attach files in any transaction page of HCM application.<br />
 Framework Supports attaching files, links and entering rich texts.
 
 ### Fluid Timesheet
