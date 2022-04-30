@@ -20,7 +20,7 @@ You can reach me on [Linkedin](https://in.linkedin.com/in/vinoddesai147).
 ## Experience
 
 ### **Software Development Engineer - 3**
-### Amadeus Software Labs India Pvt Ltd
+### Amadeus Software Labs India Private Limited
 Responsible for Design, Development of web applications.
 
 ### **Software Developer**
