@@ -12,8 +12,9 @@ You can reach me on [Linkedin](https://in.linkedin.com/in/vinoddesai147).
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/240px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/240px-Bootstrap_logo.svg.png" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/182px-Java_programming_language_logo.svg.png 1.5x" alt="Java" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/240px-C_Sharp_wordmark.svg.png" alt="CSharp" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/240px-.NET_Logo.svg.png" alt="Dot Net Framework" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/129px-Microsoft_.NET_logo.svg.png 1.5x" alt="Dot Net Framework" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/240px-Git-logo.svg.png" alt="Git" width="40" height="40"/>
 </p>
 
@@ -21,16 +22,19 @@ You can reach me on [Linkedin](https://in.linkedin.com/in/vinoddesai147).
 
 ### **Software Development Engineer - 3**
 ### Amadeus Software Labs India Private Limited
-Responsible for Design, Development of web applications.
+Role - Senior Developer, Scrum Master, Mentor for Graduate Engineer Trainees & Interns.<br />
+Responsible for Design, Development of web applications using Java, JavaScript, Angular, C#, DotNet, Azure and other technologies.
 
 ### **Software Developer**
 ### Crestron Software Development India Private Limited
+Role - Senior Developer, Project Lead and Release Manager.<br />
 Responsible for Design, Development of web applications.<br />
 Responsible for Integrating applications with Salesforce B2B Commerce cloud.<br />
 Responsible for Releasing Applications using Azure Pipeline and Release tools.
 
 ### **Senior Applications Engineer**
 ### Oracle India Private Limited
+Role - Senior Developer Project Lead, and Mentor for new joiners.<br />
 Responsible for developing web applications for Time and Attendance module of Human Capital Management (HCM) product.<br />
 Responsible for debugging bugs and providing quick bug fixes for customer real time issues.<br />
 Responsible for improving web pages performance and delivering optimized, high quality features.<br />
