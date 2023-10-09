@@ -79,7 +79,7 @@ CGPA 8.88
 
 ### **Anmol Science PU College, Davangere**
 ### Pre University Course
-Percentage - 90.33
+Percentage - 90.33 (PCMB 94%)
 
 ## Interests
 
