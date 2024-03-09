@@ -92,6 +92,32 @@ Tech Stack: HTML, CSS, JavaScript, Java, Oracle Fusion Middleware, Oracle DB, Or
 Created Dashboard and responsive web pages for elapsed, punch and hourly time reporters for add/edit reported time, view exceptions and payable time details for employees, managers and time administrators.
 Tech Stack: HTML, CSS, JavaScript, Java, Oracle Fusion Middleware, Oracle DB, Oracle OCI<br />
 
+## Certifications
+Certified SAFe Scrum Master<br />
+Microsoft Certified: Azure Developer Associate (AZ-204)<br />
+Microsoft Certified: Azure Fundamentals (AZ900)<br />
+Microsoft Certified: Azure Data Fundamentals (DP-900)<br />
+Microsoft Certified: Azure AI Fundamentals (AI-900)<br />
+
+## Honors & awards
+#### The Rising Star [January - 2024]
+Awarded with a Rising Star for successfully completing the payment recovery feature for Ingenico-Ogone payment gateway. This is carried out for reservations made for hotels through the iHotelier booking engine app. The project is finished to a high standard and on time.<br />
+
+#### Best Mentor for Internship Project [August - 2023]
+Best Mentor Award for the Amadeus Hospitality - Check-In To Comfort Internship Project.<br />
+
+#### Spot Recognition [October - 2022]
+Senior Developer and Scrum Master role for new Amadeus Property Management System (APMS) - Bengaluru team.<br />
+Worked on complex UI features for both ACRS-CGI and APMS application.<br />
+Worked on Reporting Framework feature - Asynchronously sync data between APMS and Amadeus Hospitality Data Reporting Platform (AHDRP).<br />
+
+#### Spot Recognition [June - 2020]
+Created Consultant Calculator application from scratch for crestron consultant employees for creating quotes with both crestron and third party company products.<br />
+Involved in requirement gathering, project management, designing, architecting, development, testing, deploying application on to Azure Virtual Machines and presenting the application to stake holders.<br />
+
+#### Outstanding Contributor Award (OCA) [July - 2018]
+Created responsive and intuitive timesheet web page for reporting time by employees, managers and time administrators for Human Capital Management (HCM) application.<br />
+
 ## Education
 
 ### **R. V. College of Engineering (RVCE), Bengaluru**
