@@ -27,8 +27,8 @@ You can reach me on [Linkedin](https://in.linkedin.com/in/vinoddesai147).
 
 ### **Software Development Engineer - 3**
 ### Amadeus Software Labs India Private Limited
-Role - Senior Developer, Scrum Master, Mentor for Graduate Engineer Trainees & Interns.<br />
-Responsible for Design, Development of web applications using Java, JavaScript, Angular, C#, DotNet, Azure and other technologies.
+Role - Senior Developer, Scrum Master, Mentor for New Joiners, Graduate Engineer Trainees & Interns.<br />
+Responsible for Design, Development of web applications for Amadeus Hospitality Products using Java, Spring Boot, Oracle DB, JavaScript, Angular, C#, DotNet, Azure and other technologies.
 
 ### **Software Developer**
 ### Crestron Software Development India Private Limited
@@ -46,39 +46,60 @@ Responsible for improving web pages performance and delivering optimized, high q
 
 ## Projects
 
+### Payment Recovery for iHotelier Reservations Booking Engine Application:
+Created generic payment recovery processor scheduled job to confirm the reservations created from iHotelier Booking Engine for which payment has been deducted and reservations are in pending state.<br />
+Tech Stack: Java, Spring Boot, Webhooks, Oracle DB, Fiorano Messaging Queue, Angular, Jasmine, JUnit, Mockito<br />
+Implemented for Payment Provider: Ingenico-Ogone Credit Cards, Ingenico-Ogone Alternate Forms of Payments - Paypal<br />
+
+### Amadeus Property Management System (APMS):
+Created menu toggle, configuring financial picklist items, show room details on reservation screen features for improving user experience.<br />
+Synchronizing Amadeus Property Management System (APMS) data with Amadeus Hospitality Data & Reporting Platform (AHDRP) for reservations reports.<br />
+Tech Stack: Dot Net Core, Azure SQL DB, Azure Function App, Azure Service Bus, Azure Application Insights, Azure DevOps, OpenAPI/Swagger Specification, Angular, AG Grid, Ng-BootStrap, Knockout JS<br />
+
+### Central Guest Intelligence (CGI) Application:
+Created group module for CGI application for creating, updating groups for group reservation and integrated with Amadeus Property Management System (APMS).<br />
+Tech Stack: Java, Spring Boot, Angular, AG Grid, Ng-BootStrap, Jest, JUnit, Jenkins<br />
+
 ### Light Fixture Configurator Tool (LFCT)
-Created Configure Price Quote (CPQ) web application for light fixture product from scratch including design/prototype, requirement gathering from buisness.
+Created Configure Price Quote (CPQ) web application for light fixture product from scratch including design/prototype, requirement gathering from buisness.<br />
 Ability to generate multiple version of the project design, generate quote and export data to excel.<br />
 Integrated with Salesforce B2B Commerce cloud application for order processing and to provide consistant user experience for ordering configurable and non-configurable products from Crestron.<br />
-Automated Validation of Product Lexicons and Pricing using C# Selenium test framework.
+Automated Validation of Product Lexicons and Pricing using C# Selenium test framework.<br />
+Tech Stack: HTML, CSS, JavaScript, Angular - 14, Jasmine, Dot Net Core (Version - 3), MSTest, MS SQL Server, Azure<br />
 
 ### Consultant Calculator
 This application is designed to assist crestron consultants in calculating the cost of the crestron hardware and software products for commercial and residential projects along with products rack units, power, and cooling informations at one place.<br />
 Ability to generate multiple version of the project design, generate quote and export data to excel.<br />
-Integrated prequote project with QuotesWeb application for converting prequote project into and an opportunity.
+Integrated prequote project with QuotesWeb application for converting prequote project into and an opportunity.<br />
+Upgraded Angular version 8 to 14.<br />
+Tech Stack: HTML, CSS, JavaScript, Angular - 14, Jasmine, Dot Net Core (Version - 3), MSTest, MS SQL Server, Azure<br />
 
 ### Crestron Design Tool for Shading Solutions (CDTS)
 Crestron Design Tool for Shades for configuring all types of shades product, add accessories to design, create revisions, generate quote and order the shading solutions for commercial and residential projects.<br />
-Implemented Order Processing by generating an XML file, this order XML file is consumed by SAP PI/PO module for further managing and processing the order by manufacturing unit.
+Implemented Order Processing by generating an XML file, this order XML file is consumed by SAP PI/PO module for further managing and processing the order by manufacturing unit.<br />
+Tech Stack: HTML, CSS, JavaScript, ASP.NET MVC 3, MSTest, MS SQL Server, Azure<br />
 
 ### QuotesWeb
-Configure, Price, Quote (CPQ) application for sales order team to create projects for customers with products details and generate quote.
+Configure, Price, Quote (CPQ) application for sales order team to create projects for customers with products details and generate quote.<br />
+Tech Stack: HTML, CSS, JavaScript, Angular, Jasmine, ASP.NET MVC 3, MSTest, MS SQL Server, Azure<br />
 
 ### Attachments Framework
 This configurable framework provides the ability to attach files in any transaction page of HCM application.<br />
 Framework Supports attaching files, links and entering rich texts.
+Tech Stack: HTML, CSS, JavaScript, Java, Oracle Fusion Middleware, Oracle DB, Oracle OCI<br />
 
 ### Fluid Timesheet
 Created Dashboard and responsive web pages for elapsed, punch and hourly time reporters for add/edit reported time, view exceptions and payable time details for employees, managers and time administrators.
+Tech Stack: HTML, CSS, JavaScript, Java, Oracle Fusion Middleware, Oracle DB, Oracle OCI<br />
 
 ## Education
 
 ### **R. V. College of Engineering (RVCE), Bengaluru**
-### B.E. in Electronics and Communication
+#### B.E. in Electronics and Communication
 CGPA 8.88
 
 ### **Anmol Science PU College, Davangere**
-### Pre University Course
+#### Pre University Course
 Percentage - 90.33 (PCMB 94%)
 
 ## Interests
